@@ -1,4 +1,4 @@
-1. Project Title
+# 1.Project Title
 
 AEGIS: Autonomous Explainable Global Intelligence System
 
@@ -7,7 +7,7 @@ An AI-Assisted Robotic Digital Pathology Research Platform for Resource-Limited 
 
 ---
 
-2. Executive Summary
+# 2.Executive Summary
 
 Cancer continues to place a significant burden on healthcare systems worldwide, especially in limited resource environments, and timely laboratory analysis plays an important role in diagnosis and research. However, many healthcare systems, particularly those in resource-limited environments, face challenges such as limited access to advanced laboratory equipment and shortages of specialised personnel.
 
@@ -19,7 +19,7 @@ The goal of AEGIS is not to replace medical professionals or diagnose disease. I
 
 ---
 
-3. Background
+# 3.Background
 
 Cancer remains one of the world’s leading causes of illness and death, as at least 10 million people die of cancer a year . Advances in medical imaging, robotics, and artificial intelligence have created new opportunities to support medical research and improve laboratory efficiency.
 
@@ -29,7 +29,7 @@ Growing up in Zambia and witnessing the impact of cancer on my own family inspir
 
 ---
 
-4. Problem Statement
+# 4.Problem Statement
 
 Microscopic examination of tissue samples is a critical part of pathology and cancer research. The process often involves repetitive manual scanning and visual inspection by trained specialists.
 
@@ -39,7 +39,7 @@ There is a need for affordable, intelligent systems that can automate repetitive
 
 ---
 
-5. Proposed Solution
+# 5.Proposed Solution
 
 AEGIS is designed as an AI-assisted robotic digital pathology research platform.
 
@@ -58,9 +58,9 @@ The system will then generate visual explanations, organise scan results, and pr
 
 ---
 
-6. Project Objectives
+# 6.Project Objectives
 
-Primary Objectives
+## Primary Objectives
 
 * Design an automated robotic microscope scanning platform.
 * Develop an AI model capable of analysing microscopy images.
@@ -68,7 +68,7 @@ Primary Objectives
 * Create an interactive dashboard for visualisation.
 * Build a modular system that can be expanded in future versions.
 
-Secondary Objectives
+## Secondary Objectives
 
 * Maintain an affordable prototype design.
 * Develop comprehensive engineering documentation.
@@ -77,9 +77,9 @@ Secondary Objectives
 
 ---
 
-7. Scope
+# 7.Scope
 
-Included
+## Included
 
 * Automated microscope scanning
 * Image acquisition
@@ -89,7 +89,7 @@ Included
 * Interactive dashboard
 * Engineering documentation
 
-Not Included
+## Not Included
 
 * Medical diagnosis
 * Clinical deployment
@@ -100,7 +100,7 @@ AEGIS is intended solely as an educational and research prototype.
 
 ---
 
-8. Expected Impact
+# 8.Expected Impact
 
 This project aims to demonstrate how robotics and artificial intelligence can be integrated into a single research platform that supports digital pathology workflows.
 
@@ -110,9 +110,9 @@ The project also aims to demonstrate how students can contribute meaningful engi
 
 ---
 
-9. Technologies
+# 9.Technologies
 
-Hardware
+## Hardware
 
 * Laptop
 * Arduino Uno
@@ -122,7 +122,7 @@ Hardware
 * Power Supply
 * Custom Mechanical Frame
 
-Software
+## Software
 
 * Python
 * PyTorch
@@ -135,7 +135,7 @@ Software
 
 ---
 
-10. Success Criteria
+# 10.Success Criteria
 
 The project will be considered successful if it can:
 
@@ -148,7 +148,7 @@ The project will be considered successful if it can:
 
 ---
 
-11. Limitations
+# 11.Limitations
 
 AEGIS is an educational research prototype.
 
@@ -158,7 +158,7 @@ The AI model will be trained using publicly available research datasets and shou
 
 ---
 
-12. Future Work
+# 12.Future Work
 
 Future versions of AEGIS may include:
 
@@ -172,7 +172,7 @@ Future versions of AEGIS may include:
 
 ---
 
-13. Conclusion
+# 13.Conclusion
 
 AEGIS  is a representation 
 
